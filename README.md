@@ -6,6 +6,12 @@ adapts them into fun and engaging mini video games. All the types of exercises, 
 that were used, are based on the latest textbook edition, taught in the first year of elementary 
 school.
 
+
+![362921343_106398642523588_8495529307227455352_n](https://github.com/user-attachments/assets/6d529d24-91a4-4d20-88c6-4c665a58e94f)
+
+                                                        1st Game of the app
+
+
 The application was created using the Unity Game Engine and the programming language C#. In 
 addition, another important tool was the Vuforia Engine which was necessary in order to scan the 
 pages for each exercise. One thing to be noted is that it is required to use a mobile phone or tablet to 
