@@ -1,9 +1,9 @@
-# AR-FirstGradeGreekCourse-app
-The aim of this thesis is to design and develop an augmented reality application for the assessment 
+# Description
+The aim of this project is to design and develop an augmented reality application for the assessment 
 of the Modern Greek language course of the 1st grade. The app not only offers a variety of 
 educational exercises that simulate the already existing exercises, contained in the textbook, but also 
 adapts them into fun and engaging mini video games. All the types of exercises, including the words 
-that were used, are based on the latest textbook edition, taught in the first year of elementary 
+that were used, are based on the latest textbook edition, taught in the first year of Greek elementary 
 school.
 
 
