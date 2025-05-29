@@ -20,3 +20,14 @@ run the app properly.
 In total, the app consists of 6 mini games which are divided into three sections with two games each. 
 The games are arranged in such a way that they reflect a level of difficulty, with each game being 
 more difficult than the previous one.
+
+
+
+# Source code
+
+The source code for this app is located to the file above named "GoogleDriveLink4SourceCode", which is a google drive link which will directly to that.
+
+
+# Contact
+
+If you have any questions regarding the app, please be free and send me an email at thanossmilkos@gmail.com and i will try and clear whatever question you may have. 
